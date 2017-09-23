@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BQ51013B.PrjPCB]
+   Generated File[BQ51013BPCB.TXT]
+   Generated File[BQ51013BPCB.DRL]
+   Generated File[BQ51013BPCB.LDP]
+   Generated File[BQ51013BPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:04:46 On 2017/9/13

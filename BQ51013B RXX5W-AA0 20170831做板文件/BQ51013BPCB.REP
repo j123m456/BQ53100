@@ -1,0 +1,30 @@
+*************************************************************
+FileName = BQ51013BPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : BQ51013BPCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : BQ51013BPCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+

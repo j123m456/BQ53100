@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : F:\huangyoujun\BQ51013B\BQ51013BPCB.PcbDoc
+Date     : 2017/9/13
+Time     : 13:00:32
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=2mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P6-2 (3503.881,2980.708mil) And Pad P2-1 (3592.449,2981.196mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (3833.291,3195.14mil) And Via (3926.964,3198.952mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (3078.503,3200.709mil) And Track on layer Top Layer (3149.35,3172.622mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-1 (3081.773,2980.383mil) And Track on layer Top Layer (3177.592,3012.317mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2 (3212.053,3172.846mil) And Pad U2-2 (3213.847,3012.317mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (3555.575,3093.641mil) And Pad R3-1 (3836.208,3119.229mil)
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Time Elapsed        : 00:00:02

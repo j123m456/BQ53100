@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BQ51013BPCB.PcbDoc   2017/9/13  13:04:46
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BQ51013BPCB.TXT
+EIA File   : BQ51013BPCB.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          16               2.05 Inch (52.15 mm)
+T2        15mil (0.381mm)          Round          42               4.34 Inch (110.29 mm)
+---------------------------------------------------------------------------
+Totals                                            58               6.40 Inch (162.44 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
